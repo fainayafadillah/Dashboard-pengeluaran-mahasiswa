@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dashboard Pengeluaran Mahasiswa</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Lewati ke konten</a>
+  <header>
+    <h1>💸 Dashboard Pengeluaran Mahasiswa</h1>
+    <p>Pantau ke mana uang bulananmu pergi.</p>
+  </header>
+  <main id="main">
+    <section class="filters" aria-label="Filter data">
+      <label>Bulan <select id="fBulan"></select></label>
+      <label>Kategori <select id="fKat"></select></label>
+      <label>Budget bulanan (Rp) <input id="fBudget" type="number" min="0" step="50000"></label>
+      <button id="btnReset" type="button">Reset</button>
+    </section>
+
+    <section class="kpis" aria-label="Ringkasan">
+      <article class="card"><h2>Total Pengeluaran</h2><p id="kTotal" class="big">-</p></article>
+      <article class="card"><h2>Rata-rata Harian</h2><p id="kHarian" class="big">-</p></article>
+      <article class="card"><h2>Kategori Terbesar</h2><p id="kTop" class="big">-</p></article>
+      <article class="card"><h2>Status Budget</h2><p id="kBudget" class="big">-</p><div class="bar"><div id="bBar"></div></div></article>
+    </section>
+
+    <section class="grid">
+      <article class="card"><h2>Pengeluaran per Kategori</h2><canvas id="cKat" role="img" aria-label="Grafik batang pengeluaran per kategori"></canvas></article>
+      <article class="card"><h2>Tren Bulanan</h2><canvas id="cTren" role="img" aria-label="Grafik garis tren pengeluaran bulanan"></canvas></article>
+    </section>
+
+    <section class="grid">
+      <article class="card"><h2>💡 Insight Analisis Python</h2><ul id="insights"></ul></article>
+      <article class="card"><h2>Transaksi Terbaru</h2>
+        <div class="scroll"><table><thead><tr><th>Tanggal</th><th>Kategori</th><th>Deskripsi</th><th>Jumlah</th></tr></thead><tbody id="tbl"></tbody></table></div>
+      </article>
+    </section>
+  </main>
+  <footer>Data sintetis untuk keperluan tugas kuliah IMK &amp; Visualisasi Data.</footer>
+  <script src="js/app.js"></script>
+</body>
+</html>
