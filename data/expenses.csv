@@ -1,0 +1,340 @@
+tanggal,kategori,deskripsi,jumlah
+2026-05-01,Kos/Tempat tinggal,Bayar kos,600000
+2026-05-01,Makanan,Sarapan,11000
+2026-05-01,Transport,Angkot,13000
+2026-05-01,Hiburan,Nongkrong,117000
+2026-05-01,Belanja,Kebutuhan harian,141000
+2026-05-02,Makanan,Kopi,17000
+2026-05-02,Transport,Ojek online,27000
+2026-05-02,Belanja,Pakaian,72000
+2026-05-03,Makanan,Makan siang,13000
+2026-05-03,Transport,Ojek online,20000
+2026-05-04,Transport,Ojek online,26000
+2026-05-05,Makanan,Makan malam,12000
+2026-05-06,Makanan,Makan malam,22000
+2026-05-06,Transport,Angkot,15000
+2026-05-07,Makanan,Makan malam,34000
+2026-05-07,Transport,Ojek online,20000
+2026-05-08,Makanan,Makan malam,12000
+2026-05-08,Pendidikan,Fotokopi,92000
+2026-05-09,Makanan,Kopi,31000
+2026-05-09,Transport,Bensin,13000
+2026-05-10,Makanan,Makan malam,22000
+2026-05-10,Hiburan,Nonton,85000
+2026-05-11,Makanan,Kopi,32000
+2026-05-12,Makanan,Makan siang,10000
+2026-05-13,Makanan,Makan siang,25000
+2026-05-14,Makanan,Sarapan,30000
+2026-05-16,Makanan,Makan malam,20000
+2026-05-16,Transport,Bensin,27000
+2026-05-16,Hiburan,Nonton,84000
+2026-05-17,Makanan,Makan malam,28000
+2026-05-17,Transport,Ojek online,28000
+2026-05-18,Makanan,Sarapan,23000
+2026-05-18,Transport,Ojek online,25000
+2026-05-18,Hiburan,Nonton,49000
+2026-05-19,Makanan,Makan siang,12000
+2026-05-19,Transport,Ojek online,9000
+2026-05-19,Hiburan,Game,51000
+2026-05-20,Makanan,Kopi,29000
+2026-05-20,Transport,Ojek online,23000
+2026-05-20,Belanja,Pakaian,143000
+2026-05-21,Makanan,Makan siang,31000
+2026-05-21,Transport,Bensin,19000
+2026-05-22,Makanan,Makan siang,18000
+2026-05-22,Transport,Bensin,26000
+2026-05-22,Hiburan,Nonton,91000
+2026-05-23,Makanan,Kopi,26000
+2026-05-23,Transport,Bensin,21000
+2026-05-23,Belanja,Pakaian,132000
+2026-05-24,Makanan,Kopi,28000
+2026-05-24,Transport,Bensin,18000
+2026-05-25,Makanan,Kopi,29000
+2026-05-25,Transport,Bensin,25000
+2026-05-25,Hiburan,Nonton,87000
+2026-05-25,Pendidikan,Kuota internet,28000
+2026-05-26,Makanan,Makan malam,29000
+2026-05-26,Hiburan,Game,31000
+2026-05-27,Makanan,Sarapan,32000
+2026-05-27,Transport,Bensin,21000
+2026-05-28,Makanan,Makan siang,25000
+2026-05-28,Transport,Angkot,15000
+2026-05-29,Makanan,Kopi,15000
+2026-05-30,Makanan,Sarapan,28000
+2026-05-30,Hiburan,Game,38000
+2026-05-30,Pendidikan,Buku,51000
+2026-05-31,Makanan,Makan malam,21000
+2026-06-01,Kos/Tempat tinggal,Bayar kos,600000
+2026-06-01,Makanan,Kopi,31000
+2026-06-01,Hiburan,Nonton,64000
+2026-06-02,Makanan,Makan siang,24000
+2026-06-02,Transport,Angkot,13000
+2026-06-02,Hiburan,Nongkrong,68000
+2026-06-03,Makanan,Sarapan,11000
+2026-06-03,Transport,Angkot,16000
+2026-06-03,Hiburan,Game,93000
+2026-06-04,Makanan,Makan malam,15000
+2026-06-04,Hiburan,Game,117000
+2026-06-05,Makanan,Sarapan,18000
+2026-06-05,Transport,Ojek online,12000
+2026-06-06,Makanan,Makan malam,20000
+2026-06-06,Transport,Bensin,30000
+2026-06-06,Pendidikan,Buku,83000
+2026-06-07,Makanan,Sarapan,28000
+2026-06-07,Hiburan,Nonton,54000
+2026-06-08,Makanan,Sarapan,21000
+2026-06-08,Transport,Bensin,25000
+2026-06-09,Makanan,Makan malam,28000
+2026-06-09,Transport,Angkot,10000
+2026-06-10,Makanan,Sarapan,27000
+2026-06-11,Makanan,Makan malam,22000
+2026-06-11,Pendidikan,Fotokopi,85000
+2026-06-12,Makanan,Sarapan,31000
+2026-06-12,Transport,Angkot,22000
+2026-06-13,Makanan,Sarapan,13000
+2026-06-13,Transport,Angkot,29000
+2026-06-14,Makanan,Makan malam,17000
+2026-06-14,Transport,Ojek online,16000
+2026-06-15,Makanan,Kopi,34000
+2026-06-15,Transport,Bensin,16000
+2026-06-15,Belanja,Kebutuhan harian,58000
+2026-06-16,Makanan,Makan malam,12000
+2026-06-16,Hiburan,Game,37000
+2026-06-18,Makanan,Kopi,15000
+2026-06-18,Transport,Angkot,16000
+2026-06-19,Makanan,Sarapan,33000
+2026-06-19,Transport,Ojek online,19000
+2026-06-19,Belanja,Skincare,70000
+2026-06-20,Makanan,Kopi,21000
+2026-06-20,Transport,Ojek online,15000
+2026-06-20,Kesehatan,Vitamin,135000
+2026-06-21,Makanan,Sarapan,22000
+2026-06-22,Makanan,Makan malam,30000
+2026-06-22,Transport,Ojek online,17000
+2026-06-23,Makanan,Makan malam,25000
+2026-06-24,Makanan,Makan malam,24000
+2026-06-25,Makanan,Sarapan,22000
+2026-06-25,Pendidikan,Kuota internet,15000
+2026-06-26,Transport,Bensin,29000
+2026-06-27,Makanan,Makan malam,11000
+2026-06-27,Transport,Angkot,24000
+2026-06-27,Hiburan,Game,49000
+2026-06-28,Makanan,Makan siang,35000
+2026-06-29,Makanan,Kopi,22000
+2026-06-30,Makanan,Makan siang,20000
+2026-06-30,Belanja,Pakaian,170000
+2026-06-30,Pendidikan,Fotokopi,99000
+2026-07-01,Kos/Tempat tinggal,Bayar kos,600000
+2026-07-01,Makanan,Kopi,13000
+2026-07-02,Makanan,Sarapan,31000
+2026-07-03,Makanan,Makan malam,21000
+2026-07-03,Hiburan,Nonton,79000
+2026-07-04,Makanan,Sarapan,26000
+2026-07-04,Transport,Ojek online,15000
+2026-07-05,Makanan,Makan malam,10000
+2026-07-05,Transport,Ojek online,21000
+2026-07-06,Makanan,Makan siang,11000
+2026-07-06,Transport,Angkot,21000
+2026-07-07,Makanan,Sarapan,34000
+2026-07-07,Transport,Ojek online,23000
+2026-07-08,Makanan,Makan malam,35000
+2026-07-08,Transport,Ojek online,24000
+2026-07-09,Makanan,Sarapan,16000
+2026-07-09,Transport,Ojek online,14000
+2026-07-09,Hiburan,Nonton,90000
+2026-07-10,Makanan,Kopi,14000
+2026-07-10,Transport,Angkot,8000
+2026-07-11,Makanan,Makan siang,26000
+2026-07-11,Belanja,Kebutuhan harian,195000
+2026-07-12,Makanan,Makan siang,18000
+2026-07-13,Makanan,Sarapan,25000
+2026-07-14,Makanan,Makan malam,35000
+2026-07-14,Belanja,Kebutuhan harian,93000
+2026-07-15,Makanan,Sarapan,25000
+2026-07-15,Transport,Angkot,17000
+2026-07-15,Pendidikan,Buku,71000
+2026-07-16,Makanan,Makan malam,32000
+2026-07-16,Transport,Bensin,26000
+2026-07-17,Makanan,Sarapan,20000
+2026-07-17,Transport,Angkot,23000
+2026-07-18,Makanan,Makan siang,30000
+2026-07-18,Pendidikan,Kuota internet,70000
+2026-07-19,Makanan,Sarapan,11000
+2026-07-20,Makanan,Kopi,29000
+2026-07-20,Belanja,Pakaian,121000
+2026-07-21,Makanan,Kopi,33000
+2026-07-21,Transport,Angkot,21000
+2026-07-21,Hiburan,Game,32000
+2026-07-21,Pendidikan,Kuota internet,116000
+2026-07-22,Makanan,Kopi,28000
+2026-07-22,Transport,Angkot,14000
+2026-07-23,Makanan,Makan malam,28000
+2026-07-24,Makanan,Makan malam,18000
+2026-07-24,Transport,Angkot,8000
+2026-07-25,Makanan,Makan malam,31000
+2026-07-25,Transport,Angkot,18000
+2026-07-26,Makanan,Kopi,15000
+2026-07-26,Transport,Angkot,28000
+2026-07-26,Pendidikan,Buku,119000
+2026-07-27,Makanan,Sarapan,10000
+2026-07-28,Makanan,Sarapan,26000
+2026-07-28,Transport,Ojek online,26000
+2026-07-29,Makanan,Kopi,18000
+2026-07-29,Transport,Angkot,23000
+2026-07-30,Makanan,Kopi,15000
+2026-07-30,Hiburan,Game,97000
+2026-07-31,Makanan,Makan siang,25000
+2026-08-01,Kos/Tempat tinggal,Bayar kos,600000
+2026-08-01,Transport,Angkot,21000
+2026-08-01,Hiburan,Nongkrong,63000
+2026-08-02,Makanan,Kopi,35000
+2026-08-02,Hiburan,Nonton,29000
+2026-08-03,Makanan,Makan siang,24000
+2026-08-04,Makanan,Makan siang,21000
+2026-08-04,Transport,Ojek online,20000
+2026-08-04,Hiburan,Game,90000
+2026-08-05,Makanan,Makan malam,23000
+2026-08-05,Transport,Bensin,27000
+2026-08-06,Makanan,Sarapan,25000
+2026-08-07,Makanan,Sarapan,24000
+2026-08-07,Transport,Bensin,18000
+2026-08-07,Pendidikan,Kuota internet,110000
+2026-08-08,Makanan,Sarapan,33000
+2026-08-08,Transport,Ojek online,30000
+2026-08-09,Makanan,Kopi,30000
+2026-08-10,Makanan,Sarapan,16000
+2026-08-11,Makanan,Makan siang,31000
+2026-08-11,Transport,Bensin,22000
+2026-08-11,Pendidikan,Buku,87000
+2026-08-12,Makanan,Sarapan,14000
+2026-08-12,Transport,Bensin,17000
+2026-08-13,Makanan,Makan siang,21000
+2026-08-13,Transport,Bensin,10000
+2026-08-14,Makanan,Sarapan,28000
+2026-08-14,Transport,Bensin,21000
+2026-08-15,Makanan,Sarapan,22000
+2026-08-15,Transport,Ojek online,16000
+2026-08-15,Hiburan,Game,94000
+2026-08-16,Makanan,Sarapan,33000
+2026-08-16,Hiburan,Nonton,26000
+2026-08-17,Makanan,Kopi,14000
+2026-08-17,Transport,Angkot,30000
+2026-08-18,Makanan,Makan siang,31000
+2026-08-19,Makanan,Makan malam,25000
+2026-08-19,Hiburan,Game,110000
+2026-08-20,Makanan,Makan siang,16000
+2026-08-20,Belanja,Skincare,86000
+2026-08-21,Makanan,Makan malam,14000
+2026-08-21,Transport,Bensin,26000
+2026-08-22,Makanan,Makan siang,30000
+2026-08-22,Transport,Bensin,13000
+2026-08-22,Pendidikan,Fotokopi,17000
+2026-08-22,Kesehatan,Obat,124000
+2026-08-23,Makanan,Makan malam,11000
+2026-08-23,Transport,Angkot,12000
+2026-08-23,Pendidikan,Buku,128000
+2026-08-24,Makanan,Makan malam,27000
+2026-08-24,Hiburan,Nongkrong,106000
+2026-08-26,Makanan,Makan malam,21000
+2026-08-26,Transport,Angkot,17000
+2026-08-27,Makanan,Kopi,25000
+2026-08-27,Transport,Angkot,12000
+2026-08-28,Makanan,Kopi,17000
+2026-08-28,Transport,Ojek online,23000
+2026-08-28,Belanja,Pakaian,142000
+2026-08-29,Makanan,Makan siang,12000
+2026-08-29,Hiburan,Nongkrong,33000
+2026-08-30,Makanan,Sarapan,28000
+2026-08-31,Makanan,Sarapan,12000
+2026-09-01,Kos/Tempat tinggal,Bayar kos,600000
+2026-09-01,Makanan,Sarapan,14000
+2026-09-02,Makanan,Makan siang,30000
+2026-09-02,Pendidikan,Kuota internet,82000
+2026-09-03,Makanan,Makan siang,22000
+2026-09-03,Transport,Angkot,13000
+2026-09-03,Belanja,Kebutuhan harian,196000
+2026-09-04,Makanan,Makan malam,21000
+2026-09-04,Transport,Angkot,19000
+2026-09-05,Makanan,Sarapan,13000
+2026-09-05,Transport,Ojek online,22000
+2026-09-06,Makanan,Sarapan,14000
+2026-09-07,Transport,Ojek online,15000
+2026-09-08,Makanan,Kopi,26000
+2026-09-08,Transport,Angkot,20000
+2026-09-09,Makanan,Makan siang,34000
+2026-09-09,Transport,Bensin,23000
+2026-09-10,Makanan,Kopi,14000
+2026-09-10,Transport,Bensin,19000
+2026-09-11,Makanan,Makan malam,13000
+2026-09-11,Transport,Angkot,21000
+2026-09-11,Hiburan,Nongkrong,61000
+2026-09-12,Makanan,Makan malam,14000
+2026-09-13,Makanan,Sarapan,15000
+2026-09-13,Transport,Bensin,28000
+2026-09-14,Makanan,Kopi,35000
+2026-09-15,Transport,Bensin,22000
+2026-09-16,Makanan,Sarapan,12000
+2026-09-16,Transport,Bensin,9000
+2026-09-17,Makanan,Kopi,29000
+2026-09-17,Transport,Angkot,26000
+2026-09-18,Makanan,Makan malam,26000
+2026-09-19,Makanan,Makan malam,31000
+2026-09-19,Transport,Ojek online,22000
+2026-09-20,Makanan,Makan siang,21000
+2026-09-20,Belanja,Pakaian,55000
+2026-09-21,Makanan,Makan malam,30000
+2026-09-21,Transport,Angkot,27000
+2026-09-21,Hiburan,Game,66000
+2026-09-22,Makanan,Sarapan,13000
+2026-09-23,Makanan,Makan siang,32000
+2026-09-24,Makanan,Makan malam,26000
+2026-09-24,Transport,Bensin,13000
+2026-09-24,Hiburan,Nongkrong,33000
+2026-09-25,Makanan,Makan malam,21000
+2026-09-26,Makanan,Kopi,34000
+2026-09-26,Transport,Angkot,20000
+2026-09-27,Makanan,Makan malam,18000
+2026-09-27,Transport,Bensin,23000
+2026-09-28,Makanan,Kopi,23000
+2026-09-29,Makanan,Makan siang,22000
+2026-09-29,Pendidikan,Buku,52000
+2026-09-30,Makanan,Makan siang,24000
+2026-09-30,Kesehatan,Vitamin,27000
+2026-10-01,Kos/Tempat tinggal,Bayar kos,600000
+2026-10-01,Makanan,Kopi,18000
+2026-10-01,Belanja,Skincare,56000
+2026-10-02,Makanan,Makan malam,25000
+2026-10-02,Kesehatan,Obat,48000
+2026-10-03,Makanan,Kopi,34000
+2026-10-03,Transport,Bensin,17000
+2026-10-03,Belanja,Skincare,140000
+2026-10-04,Makanan,Makan siang,30000
+2026-10-04,Kesehatan,Obat,66000
+2026-10-05,Makanan,Makan siang,16000
+2026-10-05,Transport,Bensin,20000
+2026-10-06,Makanan,Makan siang,25000
+2026-10-06,Pendidikan,Buku,28000
+2026-10-07,Makanan,Sarapan,13000
+2026-10-07,Transport,Angkot,20000
+2026-10-08,Transport,Bensin,14000
+2026-10-08,Hiburan,Nonton,80000
+2026-10-08,Pendidikan,Fotokopi,62000
+2026-10-09,Makanan,Kopi,23000
+2026-10-09,Transport,Bensin,29000
+2026-10-09,Pendidikan,Buku,97000
+2026-10-10,Makanan,Kopi,23000
+2026-10-11,Makanan,Sarapan,27000
+2026-10-11,Belanja,Kebutuhan harian,188000
+2026-10-12,Makanan,Sarapan,32000
+2026-10-12,Transport,Angkot,28000
+2026-10-13,Makanan,Kopi,22000
+2026-10-13,Transport,Bensin,10000
+2026-10-14,Makanan,Makan malam,11000
+2026-10-15,Makanan,Kopi,22000
+2026-10-15,Hiburan,Nongkrong,40000
+2026-10-16,Makanan,Sarapan,15000
+2026-10-16,Transport,Ojek online,29000
+2026-10-17,Makanan,Makan siang,28000
+2026-10-17,Transport,Angkot,17000
+2026-10-18,Makanan,Makan malam,14000
+2026-10-19,Makanan,Sarapan,20000

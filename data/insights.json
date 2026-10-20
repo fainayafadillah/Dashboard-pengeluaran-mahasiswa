@@ -1,0 +1,16 @@
+{
+  "prediksi_bulan_depan": 1915667,
+  "arah_tren": "turun",
+  "perubahan_per_bulan": -185000,
+  "hari_paling_boros": "Sabtu",
+  "porsi_kategori": {
+    "Belanja": 13.4,
+    "Hiburan": 14.6,
+    "Kesehatan": 2.6,
+    "Kos/Tempat tinggal": 23.4,
+    "Makanan": 24.0,
+    "Pendidikan": 9.7,
+    "Transport": 12.3
+  },
+  "anomali": []
+}
